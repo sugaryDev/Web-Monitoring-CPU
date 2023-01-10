@@ -7,6 +7,7 @@ authors = ["sugaryDev <posta22@inbox.ru>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 Flask = "^2.2.2"
+psutil = "^5.9.2"
 
 [tool.poetry.dev-dependencies]
 
